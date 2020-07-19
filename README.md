@@ -1,1 +1,3 @@
-#include<main>
+c++
+比赛用
+私人
